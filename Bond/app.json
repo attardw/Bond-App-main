@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "splash": {
+      "image": "../Bond pics/BondLogo.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "name": "Bond",
+    "slug": "Bond",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "../Bond pics/BondLogo.jpg",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
